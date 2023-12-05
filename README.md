@@ -1,4 +1,11 @@
-### Hi there 👋
+### My name is Aleksandr :wink: Welcome!
+
+ - I am 31 year old programmer from Moskow :computer:
+ - I learn Java at [Job4j](https://job4j.ru/) :mortar_board:
+ - I am a microelectronics engineer. Graduated from [Mordovian State University named after Ogarev](https://mrsu.ru/ru/) :briefcase:
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Blagov13&hide=stars,prs,issues,contribs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blagov13&layout=compact)](https://github.com/ShamRail/github-readme-stats)
 
 <!--
 **Blagov13/Blagov13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
