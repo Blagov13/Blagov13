@@ -29,6 +29,7 @@
 - Hibernate
 - Microservices
 - PostgreSQL
+- HTML
 
 ---
 
