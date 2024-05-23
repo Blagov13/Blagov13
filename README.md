@@ -28,6 +28,7 @@
 - Spring Framework
 - Hibernate
 - Microservices
+- PostgreSQL
 
 ---
 
