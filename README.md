@@ -2,8 +2,7 @@
 
 ---
 
-- :man_technologist: Я 31-летний программист из Москвы
-- :computer: Изучаю Java в [Job4j](https://job4j.ru/)
+- :man_technologist: Я программист из Москвы
 - :briefcase: Инженер микроэлектроники, выпускник [МГУ им. Н.П. Огарева](https://mrsu.ru/ru/)
 
 ---
